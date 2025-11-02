@@ -1,0 +1,8 @@
+# Exclude HSyn9DHPE folder
+HSyn9DHPE/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
