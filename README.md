@@ -13,6 +13,7 @@ This extension provides custom nodes for ComfyUI that enable 9D human pose estim
 - **Video-based 3D Pose Estimation**: Process videos to extract 9D human pose data
 - **Smoothing Options**: Optional smoothing for both 2D detections and 3D poses
 - **Houdini Integration**: Automatic rendering of pose keypoints and body meshes
+- **Multiple Camera Views**: When `use_hython` is disabled, Houdini opens automatically allowing you to re-frame the render camera and capture the same motion from different camera angles; a key feature of the project
 - **ComfyUI Workflow Integration**: Seamlessly integrates into existing ComfyUI workflows
 
 ## Installation
