@@ -8,7 +8,7 @@ This extension provides custom nodes for ComfyUI that enable 9D human pose estim
 
 ## Node Usage
 
-images/node_usage_edit.mp4
+[Download Node Usage Video](https://github.com/edoardocompagnucci/ComfyUI-HSyn9DHPE/raw/main/images/node_usage_edit.mp4)
 
 ## Features
 
@@ -20,7 +20,7 @@ images/node_usage_edit.mp4
 
 ## Example Results
 
-images/results_example.mp4
+[Download Results Example Video](https://github.com/edoardocompagnucci/ComfyUI-HSyn9DHPE/raw/main/images/results_example.mp4)
 
 ## Installation
 
