@@ -2,7 +2,9 @@
 
 ComfyUI custom nodes for 9D Human Pose Estimation, integrating the [HSyn9DHPE](https://github.com/edoardocompagnucci/HSyn9DHPE) project.
 
-![ComfyUI Workflow](images/comfy_network.png)
+## Node Usage
+
+<video src="images/node_usage_edit.mp4" controls width="800"></video>
 
 ## Description
 
@@ -15,6 +17,10 @@ This extension provides custom nodes for ComfyUI that enable 9D human pose estim
 - **Houdini Integration**: Automatic rendering of pose keypoints and body meshes
 - **Multiple Camera Views**: When `use_hython` is disabled, Houdini opens automatically allowing you to re-frame the render camera and capture the same motion from different camera angles; a key feature of the project
 - **ComfyUI Workflow Integration**: Seamlessly integrates into existing ComfyUI workflows
+
+## Example Results
+
+<video src="images/results_example.mp4" controls width="800"></video>
 
 ## Installation
 
