@@ -2,13 +2,13 @@
 
 ComfyUI custom nodes for 9D Human Pose Estimation, integrating the [HSyn9DHPE](https://github.com/edoardocompagnucci/HSyn9DHPE) project.
 
-## Node Usage
-
-<video src="images/node_usage_edit.mp4" controls width="800"></video>
-
 ## Description
 
 This extension provides custom nodes for ComfyUI that enable 9D human pose estimation from video inputs. The node processes videos to extract 3D pose keypoints and generates rendered outputs using Houdini integration.
+
+## Node Usage
+
+https://github.com/edoardocompagnucci/ComfyUI-HSyn9DHPE/assets/node_usage_edit.mp4
 
 ## Features
 
@@ -20,7 +20,7 @@ This extension provides custom nodes for ComfyUI that enable 9D human pose estim
 
 ## Example Results
 
-<video src="images/results_example.mp4" controls width="800"></video>
+https://github.com/edoardocompagnucci/ComfyUI-HSyn9DHPE/assets/results_example.mp4
 
 ## Installation
 
